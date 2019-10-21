@@ -42,7 +42,7 @@ DomainDrivenDesign <-- LakesideMutualSystems : use
 
 * This [DDD reference](http://domainlanguage.com/ddd/reference/) has pattern summaries.
 * The [DDD community](http://dddcommunity.org/learning-ddd/what_is_ddd/) features supporting material.
-* [InfoQ](https://www.infoq.com/domain-driven-design) provides articles and presentaions around DDD.
+* [InfoQ](https://www.infoq.com/domain-driven-design) provides articles and presentations around DDD.
 
 ### DDD Example(s)
 This DDD library was developed for the [Lakeside Mutual](https://github.com/Microservice-API-Patterns/LakesideMutual) sample application.
@@ -50,3 +50,5 @@ This DDD library was developed for the [Lakeside Mutual](https://github.com/Micr
 The [DDD Sample Application](https://github.com/citerus/dddsample-core) that implements the running example in Eric Evans' [Domain-Driven Design](https://domainlanguage.com/ddd/) is also available on GitHub. It deals with cargo booking, routing and tracking.
 
 The [agile project management sample](https://github.com/VaughnVernon/IDDD_Samples) accompanying [Implementing Domain-Driven Design](http://www.informit.com/store/implementing-domain-driven-design-9780321834577) by Vaughn Vernon can be found on GitHub as well. 
+
+<!-- list Context Mapper and Sculptor here? -->
