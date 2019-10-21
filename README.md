@@ -18,7 +18,7 @@ DomainDrivenDesign <-- LakesideMutualSystems : use
 ```
 --->
 
-| Pattern (or Variant)              | Implementation in this library | Example from Lakeside Mutual |
+| Pattern (or Variant)              | Implementation in this library | Example in [Lakeside Mutual](https://github.com/Microservice-API-Patterns/LakesideMutual) |
 | -------------------- | ------------------------------ |------------------------- |
 | Layered Architecture | n/a | Top-level packages in Lakeside Mutual backend represents the layers suggested by E. Evans in the ["light blue" book](http://dddcommunity.org/book/evans_2003/) |
 | Module               | n/a  | Java sub-packages in Domain Layer of Lakeside Mutual backends |
